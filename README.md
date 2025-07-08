@@ -6,6 +6,4 @@
 
 🫧 I write weekly about what I am reading and technical work on my [GitHub Pages](https://tamaraatanasoska.github.io/). You can also find a list of upcoming and past talks and podcasts there.
 
-🫧 I sometimes write on my [blog](https://holophrase.substack.com/). A lot of the content is centred around language and literature. 
-
 🫧 I am always interested in collaborating with institutions on scientific projects. Feel free to [contact me](https://www.linkedin.com/in/tamaraatanasoska/) if you have an idea for a collaboration.
